@@ -1,14 +1,18 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"io"
 	"os"
 	"time"
 )
 
+var logPath = flag.String("logpath", "01-sidecar/shared/webapp.log", "path to the shared log file")
+
 func main() {
-	f, err := os.Open("../shared/webapp.log")
+	flag.Parse()
+	f, err := os.Open(*logPath)
 	if err != nil {
 		fmt.Println("could not open the file")
 		return
