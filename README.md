@@ -1,4 +1,4 @@
-# distributed-patterns
+# distributed-systems-patterns
 
 implementations of the patterns from the book *Designing Distributed Systems* by Brendan Burns, written in Go.
 
@@ -17,7 +17,7 @@ Most of these patterns exist because of how containers and Kubernetes work share
 | Folder | Pattern | Status |
 |---|---|---|
 | [`01-sidecar`](./01-sidecar) | Sidecar | completed (plain Go) |
-| `02-ambassador` | Ambassador | in progress |
+| [`02-ambassador`](./02-ambassador) | Ambassador | completed (plain Go) |
 | `03-adapter` | Adapter | planned |
 | `04-replicated-lb` | Replicated Load-Balanced Service | planned |
 | `05-sharded-service` | Sharded Service | planned |
