@@ -1,0 +1,12 @@
+ statuscode: 200, time: 2026-08-23 17:46:24.697163 +0530 IST m=+22.130762792, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 17:46:24.70793 +0530 IST m=+22.141530334, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 17:46:24.715147 +0530 IST m=+22.148747001, method: GET, path: /foo
+ statuscode: 200, time: 2026-08-23 17:46:24.722237 +0530 IST m=+22.155836959, method: POST, path: /bar
+ statuscode: 200, time: 2026-08-23 17:50:52.340825 +0530 IST m=+6.867314126, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 17:50:52.352021 +0530 IST m=+6.878510959, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 17:50:52.360435 +0530 IST m=+6.886924876, method: GET, path: /foo
+ statuscode: 200, time: 2026-08-23 17:50:52.367669 +0530 IST m=+6.894158793, method: POST, path: /bar
+ statuscode: 200, time: 2026-08-23 18:17:23.198007 +0530 IST m=+12.313434209, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 18:17:23.209036 +0530 IST m=+12.324462959, method: GET, path: /
+ statuscode: 200, time: 2026-08-23 18:17:23.217235 +0530 IST m=+12.332662084, method: GET, path: /foo
+ statuscode: 200, time: 2026-08-23 18:17:23.223781 +0530 IST m=+12.339208667, method: POST, path: /bar
