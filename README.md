@@ -18,7 +18,7 @@ Most of these patterns exist because of how containers and Kubernetes work share
 |---|---|---|
 | [`01-sidecar`](./01-sidecar) | Sidecar | completed (plain Go) |
 | [`02-ambassador`](./02-ambassador) | Ambassador | completed (plain Go) |
-| `03-adapter` | Adapter | planned |
+| [`03-adapter`](./03-adapter) | Adapter | completed (plain Go) |
 | `04-replicated-lb` | Replicated Load-Balanced Service | planned |
 | `05-sharded-service` | Sharded Service | planned |
 | `06-scatter-gather` | Scatter/Gather | planned |
