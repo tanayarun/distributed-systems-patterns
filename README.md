@@ -20,11 +20,10 @@ Most of these patterns exist because of how containers and Kubernetes work share
 | [`02-ambassador`](./02-ambassador) | Ambassador | completed (plain Go) |
 | [`03-adapter`](./03-adapter) | Adapter | completed (plain Go) |
 | [`04-replicated-lb`](./04-replicated-lb) | Replicated Load-Balanced Service | completed (plain Go) |
-| [`05-sharded-service`](./05-sharded-service) | Sharded Service | planned |
-| [`06-scatter-gather`](./06-scatter-gather) | Scatter/Gather | planned |
-| `07-work-queue` | Work Queue | planned |
-| `08-event-driven` | Event-Driven / Functions | planned |
-| `09-leader-election` | Ownership Election | planned |
+| [`05-sharded-service`](./05-sharded-service) | Sharded Service | completed (plain Go)|
+| [`06-scatter-gather`](./06-scatter-gather) | Scatter/Gather | completed (plain Go)|
+| [`07-event-driven`](./07-event-driven) | Event-Driven / Functions | completed (plain Go) |
+| `08-leader-election` | Ownership Election | planned |
 
 Each folder has its own README explaining the pattern and how to run it.
 
