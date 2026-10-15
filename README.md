@@ -23,7 +23,8 @@ Most of these patterns exist because of how containers and Kubernetes work share
 | [`05-sharded-service`](./05-sharded-service) | Sharded Service | completed (plain Go)|
 | [`06-scatter-gather`](./06-scatter-gather) | Scatter/Gather | completed (plain Go)|
 | [`07-event-driven`](./07-event-driven) | Event-Driven / Functions | completed (plain Go) |
-| `08-leader-election` | Ownership Election | planned |
+| [`08-leader-election`](./08-ownership-election) | Ownership Election | completed (plain Go) |
+| [`09-work-queue`](./09-work-queue) | Work Queue Syetems  | completed (plain Go) |
 
 Each folder has its own README explaining the pattern and how to run it.
 
